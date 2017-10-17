@@ -12,6 +12,17 @@
 	width: 150px;
 	margin-right: 1rem;
 }
+.footer-logo-container {
+	margin-bototm: 2rem;
+}
+.footer-logo-container a {
+	text-decoration: none;
+	border-bottom:0px;
+}
+.footer-logo-container a:hover {
+	text-decoration: none;
+	border-bottom:0px;
+}
 
 
 /* Reset */
